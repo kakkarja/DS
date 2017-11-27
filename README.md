@@ -9,4 +9,5 @@ including the default.**
 **Please see the demo on https://youtu.be/RPybRD5Ejtg**
 
 ### Note:
-**The demo is an old version, the new one just a clicked to stamped**
+**The demo is an old version, the new one 
+Just click any date number it will be stamped on a cell.**

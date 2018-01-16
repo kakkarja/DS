@@ -9,6 +9,8 @@ including the default.**
 **Please see the demo on https://youtu.be/RPybRD5Ejtg**
 
 ### Note:
+## PLEASE CLICK >> 'CTRL' + 'SHIFT' + 'S' BUTTONS AT THE SAME TIME >> TO ACTIVATE THE DATE-STAMP USERFORM.
+
 **The demo is an old version, the new one 
 Just click any date number it will be stamped on a cell.**
 

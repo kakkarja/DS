@@ -11,7 +11,5 @@ including the default.**
 ### Note:
 ## PLEASE CLICK >> 'CTRL' + 'SHIFT' + 'S' BUTTONS AT THE SAME TIME >> TO ACTIVATE THE DATE-STAMP USERFORM.
 
-**The demo is an old version, the new one 
+### **The demo is an old version, the new one 
 Just click any date number it will be stamped on a cell.**
-
-### PLEASE GO TO https://github.com/kakkarja/DS/wiki FOR INSTALL WALKTHROUGH

@@ -11,5 +11,4 @@ including the default.**
 ### Note:
 ## PLEASE CLICK >> 'CTRL' + 'SHIFT' + 'S' BUTTONS AT THE SAME TIME >> TO ACTIVATE THE DATE-STAMP USERFORM.
 
-### **The demo is an old version, the new one 
-Just click any date number it will be stamped on a cell.**
+### The demo is an old version, the new one Just click any date number it will be stamped on a cell.
